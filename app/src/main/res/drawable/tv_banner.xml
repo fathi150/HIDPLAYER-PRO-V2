@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#071024"
+        android:pathData="M0,0h320v180h-320z" />
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="4"
+        android:fillColor="#00000000"
+        android:pathData="M12,12 L308,12 L308,168 L12,168 Z" />
+    <!-- Bold H Logo Centered -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M122,36 L142,36 L142,78 L178,78 L178,36 L198,36 L198,144 L178,144 L178,98 L142,98 L142,144 L122,144 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M154,80 L170,88 L154,96 Z" />
+</vector>

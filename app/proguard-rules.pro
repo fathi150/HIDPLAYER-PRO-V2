@@ -1,0 +1,3 @@
+-keep class com.hidplayer.pro.model.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
